@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nishantguvvada
-- 👀 I’m interested in Machine Learning/Data Science
-- 🌱 I’m currently learning Frontend 
+- 👀 I’m interested in Full Stack, Machine Learning/Data Science and Web3.
+- 🌱 I’m currently learning Frontend.
 - 💞️ I’m looking to collaborate on Frontend/Python/ML related projects
 - 📫 How to reach me : nishant.guvvada@gmail.com
 <!---
